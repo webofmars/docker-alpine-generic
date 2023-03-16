@@ -13,3 +13,7 @@ docker build -t <username>/<package-name>:<package-version> \
   --build-arg ALPINE_VERSION=<base-alpine-version> \
   .
 ```
+
+## images already generated
+
+see [versions.txt](./versions.txt)
