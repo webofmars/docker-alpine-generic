@@ -1,0 +1,3 @@
+# alpine version; package name; package version; user
+3.17.2;mysql-client;10.6.12-r0;mysql
+3.17.2;chezmoi;2.27.1-r2;chezmoi
